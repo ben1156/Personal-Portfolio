@@ -1,14 +1,14 @@
 
-.navbar-default:hover {
+#navbar-default:hover {
     font-weight:bold;
 }
 
-body {
+#body {
   position: relative;
   color: grey;
 }
 
-section {
+#section {
   padding-top: 65px;
   margin-bottom: 25px;
   margin-top:1
