@@ -3,9 +3,9 @@
     font-weight:bold;
 }
 
-#body {
+.body {
   position: relative;
-  color: blue;
+  color: #f589 !important;
 }
 
 #section {
