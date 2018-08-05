@@ -1,6 +1,4 @@
 
-@import url('//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.min.css');
-
 .navbar-default:hover {
     font-weight:bold;
 }
@@ -60,13 +58,12 @@ section {
   color: green;
   display: block;
   margin: 20px 40px 20px 40px;
-  
+
 }
 
 .caption > p {
     text-align: left;
     margin-left: 40px;
-  
+
   }
 }
-
